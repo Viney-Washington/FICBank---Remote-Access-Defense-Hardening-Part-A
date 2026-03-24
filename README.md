@@ -1,7 +1,7 @@
 # FICBank — Remote Access Defense Hardening (Part A)
 
-📄 **Project Report:**  
-(https://github.com/Viney-Washington/FICBank---Remote-Access-Defense-Hardening-Part-A/blob/main/Viney%20Washington_%20Part%20A%20Hardening%20your%20Remote%20Access%20Defenses%20.pdf)
+ 📄 **Project Report:** [View Full Report](https://github.com/Viney-Washington/FICBank---Remote-Access-Defense-Hardening-Part-A/blob/main/Viney%20Washington_%20Part%20A%20Hardening%20your%20Remote%20Access%20Defenses%20.pdf)
+ 
 ## Overview
 This project focused on strengthening remote access defenses for FIC Bank by evaluating firewall technologies, secure communication methods, and layered network security controls. The goal was to protect sensitive financial systems in a high-risk environment with extensive remote access.
 
